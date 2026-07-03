@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="assets/icon.ico" width="140">
+<img src="assets/icon.ico" width="70">
 
 # Allias Office PRO
 
