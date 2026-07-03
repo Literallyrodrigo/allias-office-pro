@@ -1,0 +1,38 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+build/
+dist/
+*.spec
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# Environment
+.env
+
+# Trash folder
+_AlliasTrash/
+
+# OS
+.DS_Store

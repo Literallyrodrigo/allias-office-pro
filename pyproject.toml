@@ -1,0 +1,21 @@
+[project]
+
+name = "allias-office-pro"
+
+version = "1.0.0"
+
+description = "Professional duplicate file finder."
+
+readme = "README.md"
+
+requires-python = ">=3.11"
+
+license = {text = "MIT"}
+
+authors = [
+  {name="Rodrigo Teixeira"}
+]
+
+dependencies = [
+    "customtkinter>=5.2.2"
+]
